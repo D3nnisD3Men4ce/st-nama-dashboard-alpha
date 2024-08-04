@@ -1,3 +1,4 @@
+import supabase
 from supabase import create_client
 import json
 import matplotlib.dates as mdates
